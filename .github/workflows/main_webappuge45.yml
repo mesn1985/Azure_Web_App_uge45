@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run tests
-        working-directory: ./UnitTests.Invariance
+        working-directory: ./InvarianceDTOAndModel.Tests
         run: dotnet test
   
   build:
