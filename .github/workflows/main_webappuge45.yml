@@ -21,6 +21,7 @@ jobs:
         run: dotnet test
   
   build:
+    needs: test
     runs-on: windows-latest
     permissions:
       contents: read #This is required for actions/checkout
@@ -46,6 +47,7 @@ jobs:
           path: ${{env.DOTNET_ROOT}}/myapp
 
   deploy:
+    needs: 
     runs-on: windows-latest
     needs: build
     permissions:
