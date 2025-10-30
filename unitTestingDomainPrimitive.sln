@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateTheNameModelBinding
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvarianceDTOAndModel.Tests", "InvarianceDTOAndModel.Tests\InvarianceDTOAndModel.Tests.csproj", "{23C02622-D9E3-4E50-AA23-B5FD6B02834B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlInjection", "SqlInjection\SqlInjection.csproj", "{726DC88A-440B-4A82-BF97-29DB94EEADA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{23C02622-D9E3-4E50-AA23-B5FD6B02834B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23C02622-D9E3-4E50-AA23-B5FD6B02834B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23C02622-D9E3-4E50-AA23-B5FD6B02834B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726DC88A-440B-4A82-BF97-29DB94EEADA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726DC88A-440B-4A82-BF97-29DB94EEADA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726DC88A-440B-4A82-BF97-29DB94EEADA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726DC88A-440B-4A82-BF97-29DB94EEADA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
