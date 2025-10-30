@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InvarianceDTOAndModel.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168405d8e2345c183fab0e4e9fa81b230f6b4602")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c3b33abdbefe47d7e382c3ed3b1b654ccc5e302")]
 [assembly: System.Reflection.AssemblyProductAttribute("InvarianceDTOAndModel.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InvarianceDTOAndModel.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
